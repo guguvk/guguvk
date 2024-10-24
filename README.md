@@ -1,28 +1,17 @@
-# 👋 Hola, soy [Tu Nombre]
+<p align="center">
+  <a href="https://skillicons.dev"><!-- main skills -->
+    <img src="https://skillicons.dev/icons?i=kali,neovim,py" />
+  </a>
+</p>
 
-Soy un [tu profesión/área de especialización] apasionado por [tus intereses o tecnologías que te gustan]. Actualmente estoy trabajando en [tu proyecto actual o área de enfoque].
+<p align="center">
+  <a href="https://skillicons.dev"><!-- Other skills-->
+    <img src="https://skillicons.dev/icons?i=bash,github,linux" />
+  </a>
+</p>
 
-## 🚀 Proyectos Destacados
-
-- **[Nombre del Proyecto 1]**: Breve descripción del proyecto y lo que hace.
-- **[Nombre del Proyecto 2]**: Breve descripción del proyecto y lo que hace.
-- **[Nombre del Proyecto 3]**: Breve descripción del proyecto y lo que hace.
-
-## 🛠️ Tecnologías
-
-- Lenguajes: [JavaScript, Python, etc.]
-- Frameworks: [React, Django, etc.]
-- Herramientas: [Docker, Git, etc.]
-
-## 🌱 Aprendiendo
-
-- [Nueva tecnología o concepto que estás aprendiendo]
-
-## 📫 Conectemos
-
-- [Tu correo electrónico]
-- [Tu LinkedIn](tu-linkedin)
-- [Tu Twitter](tu-twitter)
-
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta, no dudes en contactarme.
-
+<p align="center">
+  <a href="https://skillicons.dev"><!--Future skills-->
+    <img src="https://skillicons.dev/icons?i=c,github,html,php,latex,mysql" />
+  </a>
+</p>
