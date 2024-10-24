@@ -1,6 +1,6 @@
 <h1 align="center"><b><i>Hola, soy Axel González 👻</i></b></h1>
 
-<img src="link image">
+<img src="https://imgur.com/a/AUkxoJb">
 
 <a href="https://www.instagram.com/guguvk_/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -18,9 +18,9 @@
 
 ## 👑 Sobre mi
 
-#### 👨‍🎓 Soy estudiante de la carrera de<b> Ingeniería en Computación</b>.
-#### 🎩 Me apasiona la <b>ciberseguridad</b>, la cual estudio de manera <b>autodidacta</b>.<br>
-#### 🌐 Diario estoy aprendiendo nuevas cosas (redes, assembly, inglés, etc...) y mejorando en las que ya se dominan
+#### 👨‍🎓 Soy estudiante de la carrera de **Ingeniería en Computación**.
+#### 🎩 Me apasiona la **ciberseguridad**, la cual estudio de manera **autodidacta**.
+#### 🌐 Diario estoy aprendiendo nuevas cosas **(redes, assembly, inglés, etc...)** y mejorando en las que ya se dominan.
 <h1></h1>
 
 ### 💻 Main skills
