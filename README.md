@@ -1,6 +1,6 @@
 <h1 align="center"><b><i>Hola, soy Axel González 👻</i></b></h1>
 
-<img src="https://imgur.com/a/AUkxoJb">
+<img src="https://i.imgur.com/VGZXvn8.png">
 
 <a href="https://www.instagram.com/guguvk_/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
