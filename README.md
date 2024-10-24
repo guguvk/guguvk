@@ -1,4 +1,4 @@
-<h1 align="center"><b><i>Hola, soy Axel González 🦇👻</i></b></h1>
+<h1 align="center"><b><i>Hola, soy Axel González 🦇</i></b></h1>
 
 <img src="https://i.imgur.com/VGZXvn8.png">
 
