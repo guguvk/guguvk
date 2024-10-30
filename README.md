@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/VGZXvn8.png">
 
 <a href="https://www.instagram.com/guguvk_/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" style="filter: brightness(0) invert(1);src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.tiktok.com/@gugu.vk">
   <img align="left" alt="Tiktok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
