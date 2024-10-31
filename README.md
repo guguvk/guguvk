@@ -1,6 +1,6 @@
 <h1 align="center"><b><i>Hola, soy Axel González 🦇</i></b></h1>
 
-<img src="https://i.imgur.com/VGZXvn8.png">
+![banner][1]  
 
 <a href="https://www.instagram.com/guguvk_/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -51,4 +51,5 @@
 <p align="center">
 <a href="https://github.com/guguvk">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guguvk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  
+
+[1]: https://github.com/user-attachments/assets/2511205e-64d1-46d6-bfc0-09c52871605c
