@@ -1,7 +1,7 @@
 <h1 align="center"><b><i>Hola, soy Axel González 🦇</i></b></h1>
 
 ![banner][1]  
-
+<!--
 <a href="https://www.instagram.com/guguvk_/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -15,7 +15,7 @@
   <img align="left" alt=" Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a><br>
 <h1></h1>
-
+-->
 ## 👑 Sobre mi
 
 #### 👨‍🎓 Soy estudiante de la carrera de **Ingeniería en Computación**.
