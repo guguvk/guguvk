@@ -34,7 +34,7 @@
 ### 💻 Others Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,github,linux,git" />
+    <img src="https://skillicons.dev/icons?i=bash,github,linux" />
   </a>
 </p>
 <h1></h1>
