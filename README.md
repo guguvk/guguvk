@@ -1,6 +1,5 @@
-<h1 align="center"><b><i>Hola, soy Axel González 🦇</i></b></h1>
+![banner][1]
 
-![banner][1]  
 <!--
 <a href="https://www.instagram.com/guguvk_/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -27,6 +26,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kali,neovim,py" />
+    <img src="https://github.com/user-attachments/assets/ee848e4b-0596-4ed0-980e-a985a9a04acc" />
   </a>
 </p>
 <h1></h1>
