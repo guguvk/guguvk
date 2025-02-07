@@ -17,16 +17,16 @@
 -->
 ## 👑 Sobre mi
 
-#### 👨‍🎓 Soy estudiante de la carrera de **Ingeniería en Computación**.
+#### 👨‍🎓 Soy estudiante de la carrera de **Ingeniería en Computación** en el **Instituto Politécnico Nacional**.
 #### 🎩 Me apasiona la **ciberseguridad**, la cual estudio de manera **autodidacta**.
 #### 🌐 Diario estoy aprendiendo nuevas cosas **(redes, assembly, inglés, etc...)** y mejorando en las que ya se dominan.
-<h1></h1>
 
 ### 💻 Main skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,neovim,py" />
-    <img src="https://github.com/user-attachments/assets/ee848e4b-0596-4ed0-980e-a985a9a04acc" />
+    <img src="https://skillicons.dev/icons?i=html,bash,kali,neovim,py" />
+    <!--<img src="https://github.com/user-attachments/assets/f5bbef49-18bc-4113-a65e-a4a465028005" /> -->
+    <img src="https://github.com/user-attachments/assets/9c8e5da0-cc87-4f46-9f4d-c1e6f944909a" />
   </a>
 </p>
 <h1></h1>
@@ -34,7 +34,7 @@
 ### 💻 Others Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,github,linux" />
+    <img src="https://skillicons.dev/icons?i=github,linux" />
   </a>
 </p>
 <h1></h1>
@@ -42,7 +42,7 @@
 ### 💻 Future skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,php,latex,mysql" />
+    <img src="https://skillicons.dev/icons?i=cpp,php,latex,mysql" />
   </a>
 </p>
 <h1></h1>
