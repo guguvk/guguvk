@@ -34,22 +34,14 @@
 ### 💻 Others Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,linux" />
+    <img src="https://skillicons.dev/icons?i=github,linux,latex" />
   </a>
 </p>
 <h1></h1>
 
-### 💻 Future skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,php,latex,mysql" />
-  </a>
-</p>
-<h1></h1>
-
-### ⚙️ GitHub Analytics
-<p align="center">
-<a href="https://github.com/guguvk">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guguvk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<details>
+  <summary><h3><b>⚙️ GitHub Stats</b></h3></summary>
+  <img align="left" alt="guguvk" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guguvk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+</details>
 
 [1]: https://github.com/user-attachments/assets/2511205e-64d1-46d6-bfc0-09c52871605c
