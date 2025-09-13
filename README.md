@@ -1,3 +1,7 @@
+<img src="assets/kalilinux-white.svg#gh-dark-mode-only" width="40" height="40" />
+<img src="assets/kalilinux-black.svg#gh-light-mode-only" width="40" height="40" />
+
+
 ![banner][1]
 
 <!--
