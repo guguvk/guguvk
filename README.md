@@ -18,15 +18,14 @@
 <img src="assets/mysql-white.svg#gh-dark-mode-only" width="40" height="40" />&nbsp;&nbsp;<img src="assets/mysql-black.svg#gh-light-mode-only" width="40" height="40" />&nbsp;&nbsp;
 <img src="assets/latex-white.svg#gh-dark-mode-only" width="40" height="40" />&nbsp;&nbsp;<img src="assets/latex-black.svg#gh-light-mode-only" width="40" height="40" />&nbsp;&nbsp;
 </p>
-discord gmail instagram linkedin
+
 <br />
 <h2 align="left">
   👑 Sobre mi
 </h2>
-
-### 👨‍🎓 Soy estudiante de la carrera de **Ingeniería en Computación** en el **Instituto Politécnico Nacional**.
-### 🎩 Me apasiona la **ciberseguridad**, la cual estudio de manera **autodidacta**.
-### 🌐 Diario aprendo nuevas cosas **(redes, assembly, inglés, etc...)** y mejorando en las que ya se dominan.
+<h3>👨‍🎓 Soy estudiante de la carrera de <strong>Ingeniería en Computación</strong> en el <strong>Instituto Politécnico Nacional</strong>.</h3>
+<h3>🎩 Me apasiona la <strong>ciberseguridad</strong>, la cual estudio de manera <strong>autodidacta</strong>.</h3>
+<h3>🌐 Diario aprendo nuevas cosas <strong>(redes, assembly, inglés, etc...)</strong> y mejorando en las que ya se dominan.</h3>
 
 <br />
 <div align="center">
@@ -34,6 +33,15 @@ discord gmail instagram linkedin
 </div>
 
 <br />
+<h2 align="left">
+  👑 Contacto
+</h2>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23000000?logo=instagram&logoColor=white)](https://www.instagram.com/guguvk_)
+[![Gmail](https://img.shields.io/badge/Gmail-%23000000?logo=gmail&logoColor=white)](mailto:esseaxel1400@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guguvk)
+[![Discord](https://img.shields.io/badge/Discord-%23000000?logo=discord&logoColor=white)](https://discordapp.com/users/guguvk)
+
 <h2 align="left">
   ⚙️ GitHub Stats
 </h2>
